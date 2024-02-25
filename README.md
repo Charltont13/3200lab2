@@ -1,3 +1,7 @@
+Clone the repo
+git clone https://github.com/Charltont13/3200lab2.git
+
+
 ## Running the Application
 After the project has finished building, you can run the app on an emulator or a real device:
 
