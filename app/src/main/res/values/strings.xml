@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="score_text">Your score: 0</string>
+    <string name="retry_button_text">Try Again</string>
+
+</resources>
